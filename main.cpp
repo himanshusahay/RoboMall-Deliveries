@@ -1,9 +1,3 @@
-/*
-Author Marco Duran
-Driver file for how the shopper should run in phase 2 of the simulation
-*Note not all of this code runs correctly but i believe that the logic behind it is correct
-there is also no sense of time in this driver function
-*/
 
 #include <cstdlib>
 #include <iostream>
@@ -13,7 +7,7 @@ there is also no sense of time in this driver function
 
 using namespace std;
 
-//Author: Marco Duran
+//Author: Himanshu Sahay
 int main()
 {
 	EventList database;
@@ -53,8 +47,6 @@ int main()
 	}
 
 }
-
-
 
 return 0;
 }
