@@ -20,6 +20,3 @@ How this works:
 * It asks for number of robots, number of stores for each robot, number of unique items, item codes and their counts.
 * Calls are made to the move function. The item database is also updated.
 * Finally, the program ends after printing the item database. 
-
---- 
-The Makefile contains all the compiler commands to compile, link and load (by creating .o files) and then execute.
